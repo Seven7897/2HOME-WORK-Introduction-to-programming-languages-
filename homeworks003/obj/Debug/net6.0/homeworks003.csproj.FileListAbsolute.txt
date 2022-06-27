@@ -1,0 +1,15 @@
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\bin\Debug\net6.0\homeworks003.exe
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\bin\Debug\net6.0\homeworks003.deps.json
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\bin\Debug\net6.0\homeworks003.runtimeconfig.json
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\bin\Debug\net6.0\homeworks003.dll
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\bin\Debug\net6.0\homeworks003.pdb
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\homeworks003.csproj.AssemblyReference.cache
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\homeworks003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\homeworks003.AssemblyInfoInputs.cache
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\homeworks003.AssemblyInfo.cs
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\homeworks003.csproj.CoreCompileInputs.cache
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\homeworks003.dll
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\refint\homeworks003.dll
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\homeworks003.pdb
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\homeworks003.genruntimeconfig.cache
+C:\Users\finch\Desktop\Vsd\2HOME WORK C#\homeworks003\obj\Debug\net6.0\ref\homeworks003.dll
