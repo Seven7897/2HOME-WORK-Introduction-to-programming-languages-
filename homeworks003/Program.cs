@@ -14,3 +14,4 @@ else
 {
     Console.WriteLine( day + " день недели  - выходной день");
 }
+Console.WriteLine();
